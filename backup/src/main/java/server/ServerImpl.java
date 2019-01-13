@@ -1,10 +1,10 @@
 package server;
 
 import api.Server;
-
 import java.io.InputStream;
 
 public class ServerImpl implements Server {
+
     public void search(String fileName) {
 
     }
