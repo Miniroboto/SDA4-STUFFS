@@ -9,8 +9,8 @@ public class ServerImpl implements Server {
 
     }
 
-    public void download(InputStream fileName) {
-
+    public boolean download() {
+        return false;
     }
 
     public void close() {

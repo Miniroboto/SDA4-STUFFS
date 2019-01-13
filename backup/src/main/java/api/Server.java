@@ -6,7 +6,7 @@ import java.io.InputStream;
 public interface Server {
 
     void search(String fileName);
-    void download (InputStream fileName);
+    boolean download ();
     void close();
     void list();
     void getStatus();
