@@ -1,50 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5033dd3-6d40-425b-bc75-d059dc2d7be9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BroadcastClient/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BroadcastClient/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BroadcastClient/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BroadcastClient/src/ReceiverThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BroadcastServer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cars/src/main/java/com/example/app/masini/logic/LogicMasina.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cars/src/main/java/com/example/app/masini/logic/LogicMasina.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backup/backup.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../backup/backup.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backup/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../backup/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backup/src/main/java/api/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backup/src/main/java/api/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backup/src/main/java/server/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backup/src/main/java/server/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backup/src/main/java/server/ServerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backup/src/main/java/server/ServerImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backup/src/main/java/utils/Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backup/src/main/java/utils/Status.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backup/src/test/java/server/ServerImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backup/src/test/java/server/ServerImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../emag/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../emag/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../emag/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../emag/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../emag/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../emag/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../emag/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../emag/emag.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../emag/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../emag/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../emag/src/main/java/BusinessLogic/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../emag/src/main/java/BusinessLogic/Cart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../emag/src/main/java/BusinessLogic/Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../emag/src/main/java/BusinessLogic/Stock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../emag/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../emag/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../emag/src/main/java/Model/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/../emag/src/main/java/Model/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../emag/target/classes/BusinessLogic/Stock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../emag/target/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../emag/target/classes/Model/Frigider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../emag/target/classes/Model/Item.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../emag/target/classes/Model/Laptop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../emag/target/classes/Shared/Consum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../emag/target/classes/Shared/OutOfStockException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../emag/target/classes/Shared/Procesor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scoala/src/main/java/Materie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../scoala/src/main/java/Materie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scoala/src/main/java/Persoana.java" beforeDir="false" afterPath="$PROJECT_DIR$/../scoala/src/main/java/Persoana.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scoala/src/main/java/Profesor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../scoala/src/main/java/Profesor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scoala/src/main/java/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../scoala/src/main/java/Student.java" afterDir="false" />
-    </list>
+    <list default="true" id="b5033dd3-6d40-425b-bc75-d059dc2d7be9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -170,11 +127,18 @@
       <option name="presentableId" value="Default" />
       <updated>1555144682254</updated>
     </task>
+    <task id="LOCAL-00001" summary="Broadcast server app">
+      <created>1555223700270</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555223700270</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25405404" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -205,6 +169,10 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Broadcast server app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Broadcast server app" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/nio/channels/ServerSocketChannel.java">
