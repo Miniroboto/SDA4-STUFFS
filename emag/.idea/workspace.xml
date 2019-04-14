@@ -1,14 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/world/src/main/java/com/sda/javaadvanced/worldapp.java" line="5" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="16ae983e-a699-4a12-8758-c94b3d9e1e11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BusinessLogic/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BusinessLogic/Stock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Model/Frigider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Model/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Model/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Shared/OutOfStockException.java" afterDir="false" />
+    <list default="true" id="a47874c1-fc2b-417d-9f8a-e2dd01961401" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Cars/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cars/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Craftmanship/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Craftmanship/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Craftmanship/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Craftmanship/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Craftmanship/Craftmanship.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Craftmanship/src/AmericaPresident.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Craftmanship/src/Binary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Craftmanship/src/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Craftmanship/src/Camel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Craftmanship/src/Camel2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Craftmanship/src/Camel3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Craftmanship/src/CompositeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Craftmanship/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Craftmanship/src/Palindrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Craftmanship/src/Pinguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Craftmanship/src/sumMultiThreads/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Craftmanship/src/sumMultiThreads/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Craftmanship/src/sumSemaphore/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Craftmanship/src/sumSemaphore/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Craftmanship/src/sumThreads/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Craftmanship/src/sumThreads/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BusinessLogic/CartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BusinessLogic/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BusinessLogic/StockController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BusinessLogic/WriteToFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Model/SearchResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/world/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/world/src/main/java/com/sda/javaadvanced/worldapp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/world/src/main/java/hibernate/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/world/src/main/java/hibernate/HibernateApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/world/src/main/resources/hibertnate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facebook/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facebook/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facebook/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facebook/src/main/java/facebook/Access.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facebook/src/main/java/facebook/Picture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facebook/src/main/java/facebook/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facebook/src/main/java/facebook/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facebook/src/main/java/facebook/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facebook/src/main/java/facebook/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate/src/main/java/hibernate/Certificat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate/src/main/java/hibernate/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate/src/main/java/hibernate/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate/src/main/java/hibernate/HibernateApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate/src/main/java/hibernate/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate/src/main/java/hibernate/TrainingApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate/src/main/resources/training.cfg.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../backup/backup.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../backup/backup.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../backup/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../backup/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../backup/src/main/java/api/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backup/src/main/java/api/Server.java" afterDir="false" />
@@ -16,149 +68,95 @@
       <change beforePath="$PROJECT_DIR$/../backup/src/main/java/server/ServerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backup/src/main/java/server/ServerImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../backup/src/main/java/utils/Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backup/src/main/java/utils/Status.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../backup/src/test/java/server/ServerImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backup/src/test/java/server/ServerImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Consum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shared/Consum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Frigider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Item.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Laptop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emag.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate/hibernate.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BusinessLogic/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BusinessLogic/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BusinessLogic/Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BusinessLogic/Stock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Procesor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shared/Procesor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Stock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Model/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BusinessLogic/Stock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Model/Frigider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Model/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Model/Laptop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Shared/Consum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Shared/OutOfStockException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Shared/Procesor.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../scoala/src/main/java/Materie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../scoala/src/main/java/Materie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../scoala/src/main/java/Persoana.java" beforeDir="false" afterPath="$PROJECT_DIR$/../scoala/src/main/java/Persoana.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../scoala/src/main/java/Profesor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../scoala/src/main/java/Profesor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../scoala/src/main/java/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../scoala/src/main/java/Student.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/world/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1616029930">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="9" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="3086" />
-          <entry key="XML" value="3" />
-        </counts>
-      </usages-collector>
-    </session>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+            <state relative-caret-position="405">
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Model/Item.java">
+        <entry file="file://$PROJECT_DIR$/world/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            <state relative-caret-position="621">
+              <caret line="23" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Model/Laptop.java">
+        <entry file="file://$PROJECT_DIR$/world/src/main/resources/hibertnate.cfg.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Model/Frigider.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Shared/Consum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1026">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Shared/Procesor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/BusinessLogic/Stock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="189">
+              <caret line="7" column="77" selection-start-line="7" selection-start-column="77" selection-end-line="7" selection-end-column="77" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/BusinessLogic/Cart.java">
+        <entry file="file://$PROJECT_DIR$/world/src/main/java/hibernate/HibernateApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="64" column="20" selection-start-line="64" selection-start-column="20" selection-end-line="64" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#911#912#0" expanded="true" />
-                <element signature="e#962#963#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="81">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Shared/OutOfStockException.java">
+        <entry file="file://$PROJECT_DIR$/world/src/main/java/hibernate/Country.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="64" selection-start-line="3" selection-start-column="64" selection-end-line="3" selection-end-column="64" />
+            <state relative-caret-position="54">
+              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/world/src/main/java/com/sda/javaadvanced/worldapp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="method#insertCountry#0;class#worldapp#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -168,7 +166,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -179,17 +176,19 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/Stock.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Procesor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Consum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Item.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Frigider.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Laptop.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Shared/OutOfStockException.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/BusinessLogic/Stock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BusinessLogic/StockController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BusinessLogic/Client.java" />
         <option value="$PROJECT_DIR$/src/main/java/BusinessLogic/Cart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Model/Item.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BusinessLogic/Stock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Model/SearchResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/world/src/main/java/com/sda/javaadvanced/worldapp.java" />
+        <option value="$PROJECT_DIR$/world/pom.xml" />
+        <option value="$PROJECT_DIR$/world/src/main/resources/hibertnate.cfg.xml" />
+        <option value="$PROJECT_DIR$/world/src/main/java/hibernate/Country.java" />
+        <option value="$PROJECT_DIR$/world/src/main/java/hibernate/HibernateApp.java" />
       </list>
     </option>
   </component>
@@ -200,7 +199,32 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="emag" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="emag" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="world" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="world" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1938" />
@@ -214,7 +238,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -225,62 +248,73 @@
             <path>
               <item name="emag" type="b2602c69:ProjectViewProjectNode" />
               <item name="emag" type="462c0819:PsiDirectoryNode" />
+              <item name="world" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="emag" type="b2602c69:ProjectViewProjectNode" />
+              <item name="emag" type="462c0819:PsiDirectoryNode" />
+              <item name="world" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="emag" type="b2602c69:ProjectViewProjectNode" />
               <item name="emag" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="emag" type="b2602c69:ProjectViewProjectNode" />
-              <item name="emag" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="emag" type="b2602c69:ProjectViewProjectNode" />
-              <item name="emag" type="462c0819:PsiDirectoryNode" />
+              <item name="world" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="BusinessLogic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="emag" type="b2602c69:ProjectViewProjectNode" />
               <item name="emag" type="462c0819:PsiDirectoryNode" />
+              <item name="world" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="emag" type="b2602c69:ProjectViewProjectNode" />
               <item name="emag" type="462c0819:PsiDirectoryNode" />
+              <item name="world" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Shared" type="462c0819:PsiDirectoryNode" />
+              <item name="javaadvanced" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="emag" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="emag" type="462c0819:PsiDirectoryNode" />
+              <item name="world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hibernate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="emag" type="b2602c69:ProjectViewProjectNode" />
+              <item name="emag" type="462c0819:PsiDirectoryNode" />
+              <item name="world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547973810282" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552682566143" />
     <property name="extract.method.default.visibility" value="public" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.15.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -294,7 +328,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.worldapp">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="emag" />
@@ -302,8 +336,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="worldapp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.javaadvanced.worldapp" />
+      <module name="world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sda.javaadvanced.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.worldapp" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -313,159 +361,176 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="16ae983e-a699-4a12-8758-c94b3d9e1e11" name="Default Changelist" comment="" />
-      <created>1547891900997</created>
+      <changelist id="a47874c1-fc2b-417d-9f8a-e2dd01961401" name="Default Changelist" comment="" />
+      <created>1548495426379</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1547891900997</updated>
+      <updated>1548495426379</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25405404" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32905483" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990665" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4984985" visible="true" weight="0.22810811" />
+      <window_info id="Structure" order="1" sideWeight="0.5015015" side_tool="true" weight="0.2054054" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.31023103" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22377622" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="4" visible="true" weight="0.32867134" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32905483" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.32905483" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="11" />
+      <window_info anchor="right" id="Maven" order="0" weight="0.32972974" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25405404" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32905483" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990665" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32905483" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-    </layout-to-restore>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/emag.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/BusinessLogic/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        <state relative-caret-position="602">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Shared/Consum.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Model/Item.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Shared/Procesor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Shared/OutOfStockException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="64" selection-start-line="3" selection-start-column="64" selection-end-line="3" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="108">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Model/Frigider.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Model/Laptop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Model/Laptop.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/BusinessLogic/WriteToFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="108">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Model/Item.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/BusinessLogic/StockController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/BusinessLogic/Stock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="270">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/BusinessLogic/Cart.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="64" column="20" selection-start-line="64" selection-start-column="20" selection-end-line="64" selection-end-column="20" />
+        <state relative-caret-position="2295">
+          <caret line="98" column="67" selection-start-line="98" selection-start-column="67" selection-end-line="98" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BusinessLogic/CartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/sql/DriverManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="688" selection-start-line="688" selection-end-line="688" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BusinessLogic/Stock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="65" column="38" selection-start-line="65" selection-start-column="38" selection-end-line="65" selection-end-column="38" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#911#912#0" expanded="true" />
-            <element signature="e#962#963#0" expanded="true" />
+            <element signature="e#3355#3356#0" expanded="true" />
+            <element signature="e#3400#3401#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Model/SearchResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/world/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/world/src/main/resources/hibertnate.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="77" selection-start-line="7" selection-start-column="77" selection-end-line="7" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/world/src/main/java/hibernate/Country.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/world/src/main/java/com/sda/javaadvanced/worldapp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="method#insertCountry#0;class#worldapp#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/world/src/main/java/hibernate/HibernateApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -521,7 +586,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>emag</last-edited>
+          <last-edited>world</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -534,7 +599,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <last-edited>mysql-connector-java-8.0.15</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

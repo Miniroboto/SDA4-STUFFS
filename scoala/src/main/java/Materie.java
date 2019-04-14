@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
 public enum Materie {
+    GEOGRAFIE, ISTORIE, SPORT;
 }

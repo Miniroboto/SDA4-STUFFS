@@ -15,7 +15,7 @@ public class LogicMasina {
         this.bl=bl;
     }
 
-    public void adaugaMasina (Masini masina) {
+    public void adaugaMasina (Masini masina)  {
         Session session = bl.getSession();
         session.beginTransaction();
         session.save(masina);
